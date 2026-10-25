@@ -1,0 +1,161 @@
+{
+  "느낌표만두": {
+    "file": "import_mandu.png",
+    "numbers": [
+      1,
+      95
+    ]
+  },
+  "정중만두": {
+    "file": "grade_mandu.png",
+    "numbers": [
+      2,
+      3,
+      8,
+      27
+    ],
+    "visible_height_px": 48
+  },
+  "축하만두": {
+    "file": "celebrate_mandu.png",
+    "numbers": [
+      4
+    ]
+  },
+  "엄지만두": {
+    "file": "thumb_mandu.png",
+    "numbers": [
+      5,
+      18,
+      23,
+      33,
+      34,
+      48,
+      50,
+      52,
+      54,
+      55,
+      58,
+      59,
+      60,
+      61
+    ],
+    "visible_height_px": 48
+  },
+  "부탁만두": {
+    "file": "please_mandu.png",
+    "numbers": [
+      6,
+      22,
+      72
+    ],
+    "visible_height_px": 48
+  },
+  "돋보기만두": {
+    "file": "exit_mandu.png",
+    "numbers": [
+      7,
+      11,
+      32,
+      46,
+      78,
+      79
+    ]
+  },
+  "똑똑만두": {
+    "file": "smart_mandu.png",
+    "numbers": [
+      9,
+      12,
+      30,
+      35,
+      47,
+      66,
+      69,
+      70,
+      71
+    ]
+  },
+  "컴퓨터만두": {
+    "file": "computer_mandu.png",
+    "numbers": [
+      13,
+      14,
+      15,
+      17,
+      19,
+      20,
+      21,
+      24,
+      25,
+      26,
+      28,
+      29,
+      31,
+      37,
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      49,
+      53,
+      73,
+      77
+    ]
+  },
+  "좌절만두": {
+    "file": "frustrated_mandu.png",
+    "numbers": [
+      16,
+      40,
+      56,
+      57
+    ],
+    "condition": "56·57은 부분 처리일 때, 정상 처리면 엄지만두. 필수 선택 누락에도 적용."
+  },
+  "사망만두": {
+    "file": "dead_mandu.png",
+    "numbers": [
+      36,
+      51,
+      74,
+      75,
+      76
+    ]
+  },
+  "녹은만두": {
+    "file": "melted_mandu.png",
+    "numbers": [
+      39,
+      63,
+      64,
+      65,
+      68
+    ]
+  },
+  "미친만두": {
+    "file": "crazy_mandu.png",
+    "numbers": [
+      62,
+      67
+    ],
+    "aliases": [
+      "겁없는만두"
+    ],
+    "visible_height_px": 48
+  },
+  "달리기만두": {
+    "file": "running_mandu.png",
+    "numbers": [
+      93,
+      102
+    ]
+  },
+  "화살표만두": {
+    "file": "arrow_mandu.png",
+    "numbers": [],
+    "placement": "현재 조회 범위에 검수 대기 OMR이 1장 이상일 때 표시; 클릭하면 검수 대기만 보기"
+  }
+}

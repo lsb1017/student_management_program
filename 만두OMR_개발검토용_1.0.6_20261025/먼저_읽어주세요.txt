@@ -1,0 +1,63 @@
+만두OMR 개발 검토용 1.0.6 (2026-10-25)
+
+이 폴더 하나로 코드 검토와 별도 환경에서의 재현을 시작할 수 있습니다.
+실사용 프로그램을 수정한 것이 아니라 검토용 복사본입니다.
+
+구성
+- source: Python 소스·테스트·만두 이미지·폰트·OMR 양식·엑셀 서식·빌드 설정
+- 안내: 인수인계, 최신 변경목록, 검사 결과, 라이선스 안내
+- 검토용_백업사본: 사용자가 제공에 동의한 2026-10-24 12:37 저장 백업 사본
+  파일명의 평촌청솔/수Ⅰ+수Ⅱ는 이름 표시일 뿐 전체 프로그램 자료 백업입니다.
+  최신 실행 중 DB가 아니라 완료된 백업 시점 자료이며, 이후 변경은 포함하지 않습니다.
+  실제 학생정보·성적·답안·원본 OMR이 포함될 수 있습니다. 지정한 검토자에게 전달하는 용도입니다.
+
+검토 우선순위
+1. 학생 합치기: 삭제 확인 목록, 사전 안전 백업, 트랜잭션 롤백, 성적/답안/확정 상태 보존
+2. 삭제 취소로 중복 성적 또는 잘못된 학생 연결이 생기지 않는지
+3. 여러 반 등록과 자동 학생 연결, 누적·반별 통계
+4. Drive 업로드 큐·복원 보호 및 기존 백업 호환
+5. 실행 종료: 최초 frozen smoke에서 종료 코드 3221226505가 한 차례 발생, 재검사 정상. 원인은 미확정.
+
+핵심 코드
+main.py: 진입점, 가상 통합 검사
+localomr/ui.py: 메인 UI
+localomr/store.py: SQLite 저장·채점·백업·복원
+localomr/studentmerge.py, mergeui.py: 학생 합치기
+localomr/identity.py: 학생 자동 연결
+localomr/omr.py, mathomr.py, importer.py: 인식·불러오기
+localomr/drive_backup.py, drive_ui.py: Google Drive 백업
+localomr/reports.py, report_math.py, history.py: 성적표·누적
+tests/test_v106.py: 최신 변경 검사
+
+Windows x64 / Python 3.12 환경에서 source 폴더를 작업 디렉터리로 사용하세요.
+PowerShell 예시:
+  py -3.12 -m venv .venv
+  .\.venv\Scripts\python.exe -m pip install -r requirements-build.txt
+  .\.venv\Scripts\python.exe main.py --data-dir ..\review-data
+
+실제 프로그램의 data 폴더를 지정하지 마세요. 위 review-data는 검토 전용 새 데이터 폴더입니다.
+앱에서 PC 백업 가져오기를 눌러 검토용_백업사본 파일을 선택하면 복사본으로 검토할 수 있습니다.
+
+테스트:
+  $env:QT_QPA_PLATFORM='offscreen'
+  .\.venv\Scripts\python.exe -m pytest -q tests
+창을 띄워 실행하려면 이후 Remove-Item Env:QT_QPA_PLATFORM을 실행하세요.
+
+빌드:
+  .\.venv\Scripts\python.exe -m PyInstaller --noconfirm --distpath ..\review-dist --workpath ..\review-build LocalOMR.spec
+
+Google 설정 포함 (사용자 승인)
+조교 검토용으로 원본 Desktop OAuth 앱 설정 assets/google_client.json과 연구실 기본 폴더 ID를 포함했습니다.
+소스는 원본 1.0.6과 동일하며 Google 로그인 access/refresh token과 data/drive 설정 파일은 포함하지 않았습니다.
+조교 PC에서 실제 연동하려면 연결 설정을 눌러 연구실 계정으로 직접 로그인·승인하세요.
+연동하면 기본 연구실 폴더를 사용하므로 가상 테스트 자료를 실수로 업로드하지 않도록 주의하세요.
+가상 업로드 검증 시에는 검토용 코드에서 별도 테스트 폴더를 지정하세요.
+
+현재 다음 업데이트 요청 (미구현)
+학생을 일반 명단·신규 채점 대상에서만 제외하고 기존 성적·답안·통계는 유지하는 명단 삭제 기능.
+실제 구현 범위는 안내/pending_requests.json과 최신 인수인계의 마지막 갱신을 함께 확인하세요.
+수정 전 개선 제안과 영향 범위를 먼저 정리하고 사용자의 반영 시작! 승인 후 구현합니다.
+실제 학생을 합치거나 삭제하지 않고 검토 사본에서 재현해야 합니다.
+
+결과 전달 권장
+문제 위치·재현 순서·영향·수정안·검증 결과를 정리하고 수정한 파일 또는 diff를 함께 전달하세요.
