@@ -1,0 +1,5824 @@
+{
+  "exams": [
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 6회",
+      "day": "2026-10-09",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2564886382,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 2,
+          "detail": "간단한 지수의 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 3,
+          "detail": "미분계수와 도함수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 3,
+          "detail": "각 변환 공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "함수의 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 2,
+          "detail": "구간이 대칭된 정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 5,
+          "detail": "수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 5,
+          "detail": "사잇값 정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 2,
+          "detail": "로그의 밑 변환 공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "곱의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 1,
+          "detail": "등비수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 5,
+          "detail": "수직선 위의 점의 위치와 이동거리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 4,
+          "detail": "삼각방정식의 실근",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "함수의 극한값과 연속성을 이용한 삼차함수의 식 추론하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 4,
+          "detail": "지수함수의 점근선과 최대/최소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "새롭게 정의된 함수의 그래프와 직선의 교점",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 3,
+          "detail": "부채꼴의 호의 길이와 넓이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 12,
+          "detail": "부정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 37,
+          "detail": "거듭제곱근 중 실수인 것의 개수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 22,
+          "detail": "사차방정식의 실근의 개수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 288,
+          "detail": "사인법칙과 코사인법칙 수능완성 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 30,
+          "detail": "정적분이 포함된 함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 180,
+          "detail": "새롭게 정의된 수열의 항 추론 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 1,
+          "detail": "이항정리를 이용한 계수 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "확률의 덧셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 5,
+          "detail": "독립시행의 확률",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 2,
+          "detail": "신뢰구간의 길이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 3,
+          "detail": "원순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 3,
+          "detail": "중복조합 + 조건부확률",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 6,
+          "detail": "이항분포와 정규분포",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 746,
+          "detail": "같은 것이 있는 순열 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 2,
+          "detail": "삼각함수의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 3,
+          "detail": "치환적분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 3,
+          "detail": "매개변수 미분과 접선의 방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 4,
+          "detail": "역함수의 미분법을 이용한 적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 2,
+          "detail": "구간별로 정의된 함수의 그래프와 역함수의 그래프의 교점",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 4,
+          "detail": "정적분으로 정의된 함수와 항등식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 31,
+          "detail": "등비급수가 수렴하기 위한 조건",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 7,
+          "detail": "합성함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 23,
+          "course": "기하",
+          "unit": "공간좌표",
+          "points": 200,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 24,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 25,
+          "course": "기하",
+          "unit": "공간벡터",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 26,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 27,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 28,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 29,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 400,
+          "key": 40,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 30,
+          "course": "기하",
+          "unit": "공간벡터",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 7회",
+      "day": "2026-10-16",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2724643850,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 6,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 30,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 24,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 100,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 844,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 622,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 31,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 11,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 5회",
+      "day": "2026-10-02",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 954812523,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 1,
+          "detail": "간단한 지수 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 3,
+          "detail": "미분계수와 도함수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 2,
+          "detail": "수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 3,
+          "detail": "함수의 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "정적분이 포함된 함수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 2,
+          "detail": "각 변환 공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "수직선 위의 점의 이동 거리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 3,
+          "detail": "삼각방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 1,
+          "detail": "함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 1,
+          "detail": "조건을 만족하는 수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 5,
+          "detail": "정적분을 이용한 함숫값 추론 수능완성 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 4,
+          "detail": "지수함수의 그래프와 직선의 교점",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 2,
+          "detail": "접선의 방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 4,
+          "detail": "조건을 만족하는 수열 추론 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 1,
+          "detail": "정적분으로 정의된 함수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 17,
+          "detail": "등차수열의 공차와 항 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "구간별로 정의된 함수의 연속",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 135,
+          "detail": "코사인법칙과 삼각형의 넓이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 8,
+          "detail": "도함수의 부호를 활용한 함수의 감소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 25,
+          "detail": "부등식을 만족하는 함수의 추론 28 예비수능 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 24,
+          "detail": "함수의 극한값과 부등식을 이용한 함숫값의 최대/최소 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 7,
+          "detail": "조건을 만족하는 지수함수 그래프 찾기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 200,
+          "key": 4,
+          "detail": "이항분포의 평균과 분산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 1,
+          "detail": "이항정리를 이용한 계수 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 1,
+          "detail": "확률의 덧셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 2,
+          "detail": "같은 것이 있는 순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "정규분포를 따르는 두 확률변수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 1,
+          "detail": "표본평균의 평균과 분산 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 7,
+          "detail": "확률의 곱셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 100,
+          "detail": "중복조합의 활용",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 3,
+          "detail": "지수함수와 로그함수의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "부분적분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 1,
+          "detail": "급수의 수렴과 ∞/∞ 꼴 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "곡선의 길이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "합성함수의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 4,
+          "detail": "등비급수가 수렴하기 위한 조건",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 12,
+          "detail": "합성함수로 표현된 역함수와 넓이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 5,
+          "detail": "접선의 방정식과 삼각함수의 덧셈정리 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 23,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 24,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 25,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 26,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 27,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 28,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 29,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 400,
+          "key": 20,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 30,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 400,
+          "key": 32,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 4회",
+      "day": "2026-09-27",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 4249091558,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 3,
+          "detail": "간단한 지수 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 4,
+          "detail": "곱의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 3,
+          "detail": "등차수열의 공차와 항 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 1,
+          "detail": "함수의 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 4,
+          "detail": "부정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "삼각함수의 주기와 최대/최소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 5,
+          "detail": "두 곡선이 이루는 넓이 2026 대수능 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "각 변환 공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "구간별로 정의된 함수의 미분가능성 수능특강 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 3,
+          "detail": "로그함수의 평행이동",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 2,
+          "detail": "여러 가지 수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 2,
+          "detail": "접선의 방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 3,
+          "detail": "정적분 조건을 만족하는 함수 추론 2026. 06. 15번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 1,
+          "detail": "사인법칙과 코사인법칙",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "극값의 개수를 활용한 함수 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 5,
+          "detail": "로그방정식과 진수조건",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 6,
+          "detail": "수직선 위의 점의 위치",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 12,
+          "detail": "점화식을 이용한 수열의 항 구하기 2026. 09. 18번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 20,
+          "detail": "구간별로 정의된 함수의 극한의 성질",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 4,
+          "detail": "조건을 만족하는 지수함수 위의 점 2026. 06. 20번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 49,
+          "detail": "함수의 극한값과 연속성을 이용한 이차함수의 식 추론하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 185,
+          "detail": "조건을 만족하는 삼각함수의 그래프 추론 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 1,
+          "detail": "원순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 5,
+          "detail": "확률의 덧셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 2,
+          "detail": "모평균의 추정",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 3,
+          "detail": "여사건의 확률",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 1,
+          "detail": "이항분포를 따르는 확률변수의 평균",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 2,
+          "detail": "조건부확률 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 67,
+          "detail": "정규분포의 대칭성",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 201,
+          "detail": "중복조합을 활용한 순서쌍의 개수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 5,
+          "detail": "로그함수의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 2,
+          "detail": "치환적분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 4,
+          "detail": "음함수의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "정적분과 급수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 5,
+          "detail": "조건을 만족하는 수열의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 1,
+          "detail": "새롭게 정의된 역함수의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 7,
+          "detail": "등비급수의 수렴과 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 2,
+          "detail": "정적분으로 정의된 함수 + 역함수의 존재성 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 23,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 24,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 25,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 26,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 27,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 28,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 29,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 400,
+          "key": 104,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 30,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 400,
+          "key": 49,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "title": "2027 수능 Fit × 양지용 5회",
+      "day": "2026-09-24",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 3167710141,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 12,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 35,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 15,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 32,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 8,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 17,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 65,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 183,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 81,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 23,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 24,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 25,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 26,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 27,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 28,
+          "course": "기하",
+          "unit": "이차곡선",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 29,
+          "course": "기하",
+          "unit": "평면벡터",
+          "points": 400,
+          "key": 27,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        },
+        {
+          "q": 30,
+          "course": "기하",
+          "unit": "공간도형좌표",
+          "points": 400,
+          "key": 8,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "3"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 3회",
+      "day": "2026-09-18",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 3362783462,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 1,
+          "detail": "간단한 지수 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 2,
+          "detail": "미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 5,
+          "detail": "여러 가지 수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "간단한 정적분 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "구간별로 정의된 함수의 연속",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "각변환공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 4,
+          "detail": "사차함수의 그래프",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 1,
+          "detail": "등차수열의 합과 일반항 사이의 관계",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 3,
+          "detail": "부정적분과 정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 4,
+          "detail": "사인함수의 대칭성",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 4,
+          "detail": "극한값 존재성 확인",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 1,
+          "detail": "사인법칙과 코사인법칙",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 5,
+          "detail": "정적분과 넓이 유지 확인 2026. 09. 13번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 4,
+          "detail": "수열의 귀납적 정의",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "도함수를 활용한 함숫값의 범위 찾기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 26,
+          "detail": "로그부등식과 진수조건",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 8,
+          "detail": "함수의 극한의 성질",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 32,
+          "detail": "삼각부등식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 25,
+          "detail": "두 점의 거리와 속도의 차이 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 72,
+          "detail": "여러 가지 수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 4,
+          "detail": "구간별 대칭함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 12,
+          "detail": "지수로그함수 역함수 관계 파악",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 2,
+          "detail": "이항정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 3,
+          "detail": "조건부확률과 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "중복조합을 이용한 확률 계산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "모평균의 추정",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 3,
+          "detail": "정규분포의 대칭성 2026. 09. 27번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 4,
+          "detail": "같은 것이 있는 순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 30,
+          "detail": "표본평균의 분포",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 23,
+          "detail": "조건부확률 2026. 09. 28번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 200,
+          "key": 4,
+          "detail": "등비수열의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 3,
+          "detail": "삼각함수의 치환적분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "입체도형의 부피",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 4,
+          "detail": "관계식이 주어진 역함수 미분법 2026. 09. 27번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "매개변수 식 세우기를 통한 속력 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 3,
+          "detail": "치환적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 23,
+          "detail": "급수의 수렴성 확인",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 90,
+          "detail": "변곡접선의 기울기 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 2회",
+      "day": "2026-09-11",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2466541734,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 3,
+          "detail": "간단한 지수의 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 3,
+          "detail": "곱의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 2,
+          "detail": "등차수열의 공차와 항 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "구간별로 정의된 함수의 연속",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 2,
+          "detail": "다항함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 1,
+          "detail": "각 변환 공식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "부정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 2,
+          "detail": "등비수열의 공비 구하기 2026. 9평 8번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 1,
+          "detail": "수직선 운동 2026. 9평 9번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 2,
+          "detail": "사인/코사인법칙 수능완성 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 1,
+          "detail": "평균변화율 수능완성 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 4,
+          "detail": "거듭제곱근 중 자연수인 것의 개수 수능완성 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "정적분을 활용한 넓이 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 5,
+          "detail": "로그함수와 직선으로 이루어진 선분의 길이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 4,
+          "detail": "다항함수의 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 6,
+          "detail": "로그방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 4,
+          "detail": "0/0꼴 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 15,
+          "detail": "여러 가지 수열의 합",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 23,
+          "detail": "접선의 방정식 2026. 09. 19번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 58,
+          "detail": "삼각함수의 그래프",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 99,
+          "detail": "극한값 존재성을 활용한 함수의 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 61,
+          "detail": "점화식을 활용한 수열의 항 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 3,
+          "detail": "같은 것이 있는 순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 5,
+          "detail": "서로 배반인 두 사건",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 3,
+          "detail": "이항정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 2,
+          "detail": "확률의 덧셈 정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "이항분포와 정규분포의 관계",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 5,
+          "detail": "연속확률분포와 독립사건 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 162,
+          "detail": "중복조합을 이용한 경우의 수 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 31,
+          "detail": "조건부 확률 2026. 09. 28번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 200,
+          "key": 2,
+          "detail": "부분적분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 3,
+          "detail": "수열의 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 4,
+          "detail": "초월함수의 극대와 극소",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 1,
+          "detail": "역함수의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "곡선으로 둘러싸인 부분의 넓이 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 2,
+          "detail": "삼각함수의 덧셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 116,
+          "detail": "조건을 만족하는 등차수열과 급수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 138,
+          "detail": "구간별 함수의 선택과 정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌4 - 1회",
+      "day": "2026-09-04",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 4227187511,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 3,
+          "detail": "간단한 지수의 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 5,
+          "detail": "미분계수의 정의",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 3,
+          "detail": "부채꼴의 호의 길이와 넓이",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 5,
+          "detail": "함수의 극한값 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 5,
+          "detail": "미분가능성과 연속",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "삼각함수의 관계식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 2,
+          "detail": "정적분을 활용한 넓이 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 2,
+          "detail": "로그의 연산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 4,
+          "detail": "구간이 나누어진 함수의 정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 4,
+          "detail": "등비수열의 공비와 항 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 3,
+          "detail": "수직선 운동",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 2,
+          "detail": "삼각함수의 그래프 올해 9평 20번 반영",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 4,
+          "detail": "극한값을 활용한 함수의 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 3,
+          "detail": "사인/코사인법칙",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 1,
+          "detail": "다항함수의 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 4,
+          "detail": "점화식을 이용한 수열의 항 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 72,
+          "detail": "부정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 14,
+          "detail": "삼각함수의 그래프",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 6,
+          "detail": "함수의 연속",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 78,
+          "detail": "수열의 합과 일반항 추론",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 963,
+          "detail": "정적분으로 정의된 함수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 30,
+          "detail": "지수함수와 로그함수의 평행/대칭이동 2026. 09. 22번 변형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 2,
+          "detail": "같은 것이 있는 순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 5,
+          "detail": "표를 이용한 확률의 계산",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 3,
+          "detail": "모평균의 추정",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 3,
+          "detail": "이중분할표를 이용한 독립사건 판단",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 2,
+          "detail": "원순열",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 3,
+          "detail": "중복조합을 이용한 함수의 개수 구하기",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 25,
+          "detail": "이산확률분포를 따르는 확률변수의 평균과 분산 구하기 신유형",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 181,
+          "detail": "조건부 확률",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 200,
+          "key": 1,
+          "detail": "등비수열의 극한",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "합성함수의 미분법",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "삼각함수의 덧셈정리",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 1,
+          "detail": "급수를 이용한 극한값 계산하기 실수유발 문항",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "부분적분법과 부정적분",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 1,
+          "detail": "접선의 방정식",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 263,
+          "detail": "등비급수",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 21,
+          "detail": "정적분으로 정의된 함수 + 대칭성 활용",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "9평 직전 모의고사",
+      "day": "2026-08-30",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 1347853315,
+      "questions": [
+        {
+          "q": 1,
+          "course": "",
+          "unit": "",
+          "points": 200,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "",
+          "unit": "",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 11,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 74,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 12,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "",
+          "unit": "",
+          "points": 300,
+          "key": 52,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 34,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 15,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "",
+          "unit": "",
+          "points": 400,
+          "key": 18,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 200,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 400,
+          "key": 51,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "",
+          "points": 400,
+          "key": 19,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "",
+          "points": 400,
+          "key": 75,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "",
+          "points": 400,
+          "key": 45,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌3 - 2회",
+      "day": "2026-08-28",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 3917300296,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 48,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 43,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 49,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 595,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 31,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 61,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 50,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 53,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 150,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 필요충분 모의고사 시즌3 - 1회",
+      "day": "2026-08-26",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2745334846,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 10,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 16,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 45,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 8,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 20,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 28,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 11,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 53,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 110,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 31,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 10,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 수능 Fit × 양지용 2회차",
+      "day": "2026-08-15",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2371470595,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 9,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 102,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 37,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 11,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 319,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 28,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 646,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 45,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 259,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 16,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 수능 Fit × 양지용 1회차",
+      "day": "2026-07-24",
+      "source": "맥가이 시험관리 (2026-10-19 확인)",
+      "source_url": "https://main.macgai7.com/teacher/test/exam_list",
+      "capture_checksum": 2497121045,
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 394,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 23,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 189,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 57,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 9,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 516,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "0"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 933,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 67,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "1"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 200,
+          "key": 2,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 400,
+          "key": 891,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 11,
+          "detail": "",
+          "classification_source": "맥가이 시험관리",
+          "choice": "2"
+        }
+      ],
+      "issues": [
+        "기하 23번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 24번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 25번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 26번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 27번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 28번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 29번: 단원 미입력 또는 다른 선택과목 내용",
+        "기하 30번: 단원 미입력 또는 다른 선택과목 내용"
+      ]
+    },
+    {
+      "title": "2027 수능 Fit × 양지용 6회",
+      "source": "(260803_최종) 2027 수능 fit 수학 이투스X양지용 6회_해설 (8p).pdf",
+      "source_hash": "f3054e02757d48730c1d8dc2f51c6e30167d195c27be25afc4ed14e96fa6223d",
+      "questions": [
+        {
+          "q": 1,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 2,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 200,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 3,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 4,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 5,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 6,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 7,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 8,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 9,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 3,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 10,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 11,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 12,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 400,
+          "key": 4,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 13,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 14,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 15,
+          "course": "수학Ⅱ",
+          "unit": "미분",
+          "points": 400,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 16,
+          "course": "수학Ⅱ",
+          "unit": "적분",
+          "points": 300,
+          "key": 11,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 17,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 18,
+          "course": "수학Ⅰ",
+          "unit": "수열",
+          "points": 300,
+          "key": 12,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 19,
+          "course": "수학Ⅰ",
+          "unit": "지수로그함수",
+          "points": 300,
+          "key": 10,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 20,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 336,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 21,
+          "course": "수학Ⅱ",
+          "unit": "함수극한연속",
+          "points": 400,
+          "key": 13,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 22,
+          "course": "수학Ⅰ",
+          "unit": "삼각함수",
+          "points": 400,
+          "key": 17,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 23,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 200,
+          "key": 3,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 24,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 300,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 25,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 26,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 27,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 300,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 28,
+          "course": "확률과 통계",
+          "unit": "확률",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 29,
+          "course": "확률과 통계",
+          "unit": "통계",
+          "points": 400,
+          "key": 75,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 30,
+          "course": "확률과 통계",
+          "unit": "경우의수",
+          "points": 400,
+          "key": 567,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 23,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 200,
+          "key": 5,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 24,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 25,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 300,
+          "key": 3,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 26,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 300,
+          "key": 1,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 27,
+          "course": "미적분",
+          "unit": "수열의극한",
+          "points": 300,
+          "key": 4,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 28,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 29,
+          "course": "미적분",
+          "unit": "미분법",
+          "points": 400,
+          "key": 200,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        },
+        {
+          "q": 30,
+          "course": "미적분",
+          "unit": "적분법",
+          "points": 400,
+          "key": 2,
+          "detail": "",
+          "classification_source": "해설 단원명"
+        }
+      ]
+    }
+  ]
+}

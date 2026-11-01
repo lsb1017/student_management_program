@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<base target="_top">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --ink:#203752; --accent:#DF654F; --line:#D8E2E5; --bg:#F6F8FA; --muted:#606A74; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:"Malgun Gothic","Apple SD Gothic Neo",sans-serif; color:var(--ink); background:var(--bg); }
+  main { max-width:860px; margin:0 auto; padding:24px 16px 48px; }
+  h1 { font-size:20px; margin:8px 0 18px; }
+  form { background:#fff; border:1px solid var(--line); border-radius:12px; padding:20px; display:grid; gap:12px; max-width:380px; }
+  label { font-size:13px; color:var(--muted); display:grid; gap:6px; }
+  input { font-size:17px; padding:10px 12px; border:1px solid var(--line); border-radius:8px; }
+  button { font-size:16px; padding:11px; border:0; border-radius:8px; background:var(--ink); color:#fff; cursor:pointer; }
+  button:disabled { opacity:.5; }
+  #message { min-height:20px; color:var(--accent); font-size:14px; }
+  #pages canvas { width:100%; height:auto; display:block; margin:0 0 14px; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,.12); }
+  .notice { background:#fff; border:1px solid var(--line); border-radius:12px; padding:20px; white-space:pre-wrap; line-height:1.6; }
+  .muted { color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1 id="title">성적표 열람</h1>
+  <form id="login" autocomplete="off">
+    <label>학번 (7자리)<input id="code" inputmode="numeric" maxlength="7" required></label>
+    <label>이름<input id="name" maxlength="20" required></label>
+    <button id="submit" type="submit">성적표 보기</button>
+    <div id="message" role="status"></div>
+    <p class="muted">본인 학번과 이름으로만 열람할 수 있어요. 5회 연속 틀리면 10분간 잠깁니다.</p>
+  </form>
+  <div id="noticeBox" class="notice" hidden></div>
+  <div id="pages"></div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+  // Keys are reduced to [A-Za-z0-9_-] in doGet (cleanKey_), so they are printed verbatim inside quotes.
+  var SESSION_KEY = '<?!= sessionKey ?>';
+  var NOTICE_KEY = '<?!= noticeKey ?>';
+  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+  function bytes(base64) {
+    var raw = atob(base64), out = new Uint8Array(raw.length);
+    for (var i = 0; i < raw.length; i++) out[i] = raw.charCodeAt(i);
+    return out;
+  }
+
+  function showPdf(base64) {
+    var box = document.getElementById('pages'); box.innerHTML = '';
+    pdfjsLib.getDocument({ data: bytes(base64) }).promise.then(function (pdf) {
+      var chain = Promise.resolve();
+      for (var n = 1; n <= pdf.numPages; n++) {
+        (function (n) {
+          chain = chain.then(function () { return pdf.getPage(n); }).then(function (page) {
+            var viewport = page.getViewport({ scale: 2 });
+            var canvas = document.createElement('canvas');
+            canvas.width = viewport.width; canvas.height = viewport.height; box.appendChild(canvas);
+            return page.render({ canvasContext: canvas.getContext('2d'), viewport: viewport }).promise;
+          });
+        })(n);
+      }
+    });
+  }
+
+  if (NOTICE_KEY) {
+    document.getElementById('login').hidden = true;
+    google.script.run.withSuccessHandler(function (r) {
+      var box = document.getElementById('noticeBox'); box.hidden = false;
+      if (!r.ok) { box.textContent = r.message; return; }
+      document.getElementById('title').textContent = r.title;
+      box.textContent = r.body;
+      if (r.attachment && r.attachment.mime === 'application/pdf') showPdf(r.attachment.data);
+      else if (r.attachment) {
+        var img = document.createElement('img'); img.style.maxWidth = '100%';
+        img.src = 'data:' + r.attachment.mime + ';base64,' + r.attachment.data;
+        document.getElementById('pages').appendChild(img);
+      }
+    }).notice(NOTICE_KEY);
+  }
+
+  document.getElementById('login').addEventListener('submit', function (event) {
+    event.preventDefault();
+    var button = document.getElementById('submit'), message = document.getElementById('message');
+    button.disabled = true; message.textContent = '확인 중…';
+    google.script.run.withSuccessHandler(function (r) {
+      button.disabled = false;
+      if (!r.ok) { message.textContent = r.message; return; }
+      message.textContent = '';
+      document.getElementById('login').hidden = true;
+      document.getElementById('title').textContent = '성적표 · ' + r.date;
+      showPdf(r.pdf);
+    }).withFailureHandler(function () {
+      button.disabled = false; message.textContent = '잠시 후 다시 시도해 주세요.';
+    }).login(document.getElementById('code').value, document.getElementById('name').value, SESSION_KEY);
+  });
+</script>
+</body>
+</html>
