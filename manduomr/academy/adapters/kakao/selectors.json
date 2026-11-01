@@ -1,0 +1,33 @@
+{
+  "_note": "카카오비즈니스 파트너센터 화면 조작 순서. 실제 화면에서 주소·선택자를 확인해 고쳐야 함(미검증). 'send': true 단계는 dry_run 때 실행하지 않음.",
+  "login_url_contains": ["accounts.kakao.com", "/login"],
+  "channel_message": [
+    {"label": "메시지 작성 화면 열기", "action": "goto", "url": "https://business.kakao.com/{channel}/messages/new"},
+    {"label": "로그인 확인", "action": "wait_login", "then_goto": "https://business.kakao.com/{channel}/messages/new"},
+    {"label": "기본 텍스트형 선택", "action": "click", "selector": "text=기본 텍스트형"},
+    {"label": "본문 입력", "action": "fill", "selector": "textarea", "value": "{text}"},
+    {"label": "버튼 추가", "action": "click", "selector": "button:has-text('버튼 추가')"},
+    {"label": "버튼 이름", "action": "fill", "selector": "input[placeholder*='버튼명']", "value": "{button}"},
+    {"label": "버튼 링크", "action": "fill", "selector": "input[placeholder*='URL']", "value": "{link}"},
+    {"label": "발송 대상 선택", "action": "click", "selector": "text={target}"},
+    {"label": "예상 대상 수 읽기", "action": "read_number", "selector": "[class*='target'] [class*='count']", "store": "expected_count", "minimum": 1},
+    {"label": "예약 발송 설정", "action": "if_schedule", "steps": [
+      {"label": "예약 발송 선택", "action": "click", "selector": "text=예약 발송"},
+      {"label": "예약 날짜", "action": "fill", "selector": "input[type='date']", "value": "{date}"},
+      {"label": "예약 시각", "action": "fill", "selector": "input[type='time']", "value": "{time}"}
+    ]},
+    {"label": "발송", "action": "click", "selector": "button:has-text('발송하기')", "send": true},
+    {"label": "발송 확인", "action": "click", "selector": "button:has-text('확인')", "send": true},
+    {"label": "완료 확인", "action": "wait_for", "selector": "text=발송", "send": true}
+  ],
+  "chat_reply": [
+    {"label": "채팅 목록 열기", "action": "goto", "url": "https://business.kakao.com/{channel}/chats"},
+    {"label": "로그인 확인", "action": "wait_login", "then_goto": "https://business.kakao.com/{channel}/chats"},
+    {"label": "채팅방 검색", "action": "fill", "selector": "input[placeholder*='검색']", "value": "{search}"},
+    {"label": "검색 실행", "action": "press", "selector": "input[placeholder*='검색']", "key": "Enter"},
+    {"label": "채팅방 {search} 선택", "action": "click", "selector": "[class*='chat'] li:has-text('{search}')", "exact_one": true},
+    {"label": "메시지 입력", "action": "fill", "selector": "textarea", "value": "{text}"},
+    {"label": "전송", "action": "click", "selector": "button:has-text('전송')", "send": true},
+    {"label": "전송 확인", "action": "wait_for", "selector": "text={text_head}", "send": true}
+  ]
+}

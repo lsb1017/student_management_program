@@ -1,1 +1,10 @@
 *.omrbackup
+
+# 학원 성적·학생 관리 통합 프로그램
+.venv/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+manduomr/build/
+manduomr/dist/
